@@ -1,0 +1,8 @@
+r = ROTAR
+a = IZQUIERDA
+s = DESCENDER
+d = DERECHA
+g = GUARDAR
+c = CARGAR
+
+Escape = SALIR
